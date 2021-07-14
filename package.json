@@ -8,8 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Chao-Kuei",
+  "license": "MIT",
+  "description": "visualization of CIA factbook",
   "devDependencies": {
     "asset": "^0.4.13",
     "css-loader": "^5.2.6",
@@ -20,10 +21,10 @@
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
   },
-  "description": "visualization of CIA factbook",
   "dependencies": {
     "datatables.net": "^1.10.25",
     "datatables.net-dt": "^1.1.0",
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.0",
+    "plotly.js-basic-dist-min": "^2.1.0"
   }
 }

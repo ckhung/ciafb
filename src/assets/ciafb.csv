@@ -1,4 +1,4 @@
-Country, Population, Median age, Population growth rate, Birth rate, Telephones - mobile cellular, Internet users
+Country,Population,Median_age,Pop_growth_rate,Birth_rate,Phones_mobile,Internet_users
 China, 1394015977, 38.4, 0.32, 11.60, 1672545161, 751886119
 India, 1326093247, 28.7, 1.10, 18.20, 1105250941, 446759327
 United States, 332639102, 38.5, 0.72, 12.40, 408509528, 285519020
