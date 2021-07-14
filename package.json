@@ -1,0 +1,29 @@
+{
+  "name": "ciafb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "start": "webpack serve --open 'firefox'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "asset": "^0.4.13",
+    "css-loader": "^5.2.6",
+    "html-webpack-plugin": "^5.3.2",
+    "papaparse": "^5.3.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "description": "visualization of CIA factbook",
+  "dependencies": {
+    "datatables.net": "^1.10.25",
+    "datatables.net-dt": "^1.1.0",
+    "jquery": "^3.6.0"
+  }
+}
